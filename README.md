@@ -1,6 +1,6 @@
-### Óla! Me chamo **Vitor**, sou estudante de programação. 🖥️⌨️🖱️
+### Óla! Me chamo Vitor, sou estudante de programação. 🖥️⌨️🖱️
 
-- 📚 Atualmente sou apenas estudante de TI.
+- 📚 Atualmente sou apenas estudante de **TI**.
 - 📜 Estou estudando: HTML5, CSS3, JavaScript, Python, UX/UI Design, NodeJS.
 
   [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-hirt-b17807225/)   
