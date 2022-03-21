@@ -4,7 +4,7 @@
 - 📜 Estou estudando: ***HTML5, CSS3, JavaScript, Python, UX/UI Design, NodeJS***.
 
   [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-hirt-b17807225/)
-  [![facebook](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.facebook.com/profile.php?id=100079710301346)
+  [![facebook](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.facebook.com/in/vitor-hirt-b17807225/)
 
 ![Vitor GitHub stats](https://github-readme-stats.vercel.app/api?username=Vitor-Hirt&theme=great-gatsby&show_icons=true)
 
