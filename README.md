@@ -1,4 +1,4 @@
-### Óla! Me chamo Vitor, sou estudante de programação. 🖥️⌨️🖱️
+### Olá! Me chamo Vitor, sou estudante de programação. 🖥️⌨️🖱️
 
 - 📚 Atualmente sou apenas estudante de **TI**.
 - 📜 Estou estudando: ***HTML5, CSS3, JavaScript, Python, UX/UI Design, NodeJS***.
